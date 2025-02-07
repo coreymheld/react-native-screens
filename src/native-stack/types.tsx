@@ -600,12 +600,12 @@ export type GoBackGesture =
  * @deprecated NativeStack has been moved from react-native-screens/native-stack to @react-navigation/native since version v6. With react-native-screens v4 native stack v5 (react-native-screens/native-stack) is deprecated and marked for removal in the upcoming minor release, react-native-screens v4 will support only @react-navigation/native-stack v7.
  */
 export interface MeasuredDimensions {
-  x: number;
-  y: number;
-  width: number;
-  height: number;
-  pageX: number;
-  pageY: number;
+  x: number;12
+  y: number;10
+  width: number;1/8
+  height: number;14
+  pageX: number;606
+  pageY: number;607
 }
 
 /**
